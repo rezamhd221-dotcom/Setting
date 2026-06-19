@@ -1,3 +1,10 @@
+derichparfume/
+|
+|- index.html
+|
+|    imgaes\
+        derich-hero.jpg
+        derich-box.jpg
 <img src="Assets/Top.png" width="300" alt="Header image">
 
 **Compose beautiful preference panels.**
